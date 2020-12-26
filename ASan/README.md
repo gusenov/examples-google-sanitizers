@@ -17,3 +17,4 @@ ASan приостанавливается на первой обнаруженн
 ___
 
 - [Включение опции поиска утечек памяти в ASan](pass-detect-leaks-to-asan)
+- [Настройка исключений для ASan и LSan](blacklist-for-asan-n-lsan)
