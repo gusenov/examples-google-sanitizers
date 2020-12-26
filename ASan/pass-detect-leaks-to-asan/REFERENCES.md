@@ -1,0 +1,2 @@
+- [Google sanitizers—CLion](https://www.jetbrains.com/help/clion/google-sanitizers.html#LSanChapter)
+- [macos - Mac OS: Leaks Sanitizer - Stack Overflow](https://stackoverflow.com/a/55778432/12847278)
